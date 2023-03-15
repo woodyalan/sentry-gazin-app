@@ -1,6 +1,6 @@
 <script setup>
 import HelloWorld from "./components/HelloWorld.vue";
-import Form from "./components/Form.vue";
+import TheWelcome from "./components/TheWelcome.vue";
 </script>
 
 <template>
@@ -19,7 +19,7 @@ import Form from "./components/Form.vue";
   </header>
 
   <main>
-    <Form />
+    <TheWelcome />
   </main>
 </template>
 
